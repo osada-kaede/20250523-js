@@ -1,0 +1,4 @@
+$(function (){
+    //jqueryを記述
+    
+});
